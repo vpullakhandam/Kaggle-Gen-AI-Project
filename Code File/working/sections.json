@@ -1,0 +1,450 @@
+{
+  "introduction_to_psychology": {
+    "page_start": 7,
+    "page_end": 34,
+    "subsections": {
+      "what_is_psychology": {
+        "page_start": 8,
+        "page_end": 8
+      },
+      "history_of_psychology": {
+        "page_start": 9,
+        "page_end": 17
+      },
+      "contemporary_psychology": {
+        "page_start": 18,
+        "page_end": 25
+      },
+      "careers_in_psychology": {
+        "page_start": 26,
+        "page_end": 29
+      }
+    }
+  },
+  "psychological_research": {
+    "page_start": 35,
+    "page_end": 70,
+    "subsections": {
+      "why_is_research_important": {
+        "page_start": 36,
+        "page_end": 40
+      },
+      "approaches_to_research": {
+        "page_start": 41,
+        "page_end": 47
+      },
+      "analyzing_findings": {
+        "page_start": 48,
+        "page_end": 58
+      },
+      "ethics": {
+        "page_start": 59,
+        "page_end": 62
+      }
+    }
+  },
+  "biopsychology": {
+    "page_start": 71,
+    "page_end": 108,
+    "subsections": {
+      "human_genetics": {
+        "page_start": 72,
+        "page_end": 77
+      },
+      "cells_of_the_nervous_system": {
+        "page_start": 78,
+        "page_end": 83
+      },
+      "parts_of_the_nervous_system": {
+        "page_start": 84,
+        "page_end": 85
+      },
+      "the_brain_and_spinal_cord": {
+        "page_start": 86,
+        "page_end": 96
+      },
+      "the_endocrine_system": {
+        "page_start": 97,
+        "page_end": 99
+      }
+    }
+  },
+  "states_of_consciousness": {
+    "page_start": 109,
+    "page_end": 143,
+    "subsections": {
+      "what_is_consciousness": {
+        "page_start": 110,
+        "page_end": 113
+      },
+      "sleep_and_why_we_sleep": {
+        "page_start": 114,
+        "page_end": 116
+      },
+      "stages_of_sleep": {
+        "page_start": 117,
+        "page_end": 120
+      },
+      "sleep_problems_and_disorders": {
+        "page_start": 121,
+        "page_end": 125
+      },
+      "substance_use_and_abuse": {
+        "page_start": 126,
+        "page_end": 133
+      },
+      "other_states_of_consciousness": {
+        "page_start": 134,
+        "page_end": 136
+      }
+    }
+  },
+  "sensation_and_perception": {
+    "page_start": 145,
+    "page_end": 179,
+    "subsections": {
+      "sensation_versus_perception": {
+        "page_start": 146,
+        "page_end": 148
+      },
+      "waves_and_wavelengths": {
+        "page_start": 149,
+        "page_end": 152
+      },
+      "vision": {
+        "page_start": 153,
+        "page_end": 160
+      },
+      "hearing": {
+        "page_start": 161,
+        "page_end": 163
+      },
+      "the_other_senses": {
+        "page_start": 164,
+        "page_end": 167
+      },
+      "gestalt_principles_of_perception": {
+        "page_start": 168,
+        "page_end": 171
+      }
+    }
+  },
+  "learning": {
+    "page_start": 181,
+    "page_end": 211,
+    "subsections": {
+      "what_is_learning": {
+        "page_start": 182,
+        "page_end": 182
+      },
+      "classical_conditioning": {
+        "page_start": 183,
+        "page_end": 191
+      },
+      "operant_conditioning": {
+        "page_start": 192,
+        "page_end": 202
+      },
+      "observational_learning_modeling": {
+        "page_start": 203,
+        "page_end": 206
+      }
+    }
+  },
+  "thinking_and_intelligence": {
+    "page_start": 213,
+    "page_end": 246,
+    "subsections": {
+      "what_is_cognition": {
+        "page_start": 214,
+        "page_end": 217
+      },
+      "language": {
+        "page_start": 218,
+        "page_end": 221
+      },
+      "problem_solving": {
+        "page_start": 222,
+        "page_end": 227
+      },
+      "what_are_intelligence_and_creativity": {
+        "page_start": 228,
+        "page_end": 230
+      },
+      "measures_of_intelligence": {
+        "page_start": 231,
+        "page_end": 236
+      },
+      "the_source_of_intelligence": {
+        "page_start": 237,
+        "page_end": 240
+      }
+    }
+  },
+  "memory": {
+    "page_start": 247,
+    "page_end": 277,
+    "subsections": {
+      "how_memory_functions": {
+        "page_start": 248,
+        "page_end": 254
+      },
+      "parts_of_the_brain_involved_with_memory": {
+        "page_start": 255,
+        "page_end": 258
+      },
+      "problems_with_memory": {
+        "page_start": 259,
+        "page_end": 268
+      },
+      "ways_to_enhance_memory": {
+        "page_start": 269,
+        "page_end": 272
+      }
+    }
+  },
+  "lifespan_development": {
+    "page_start": 279,
+    "page_end": 320,
+    "subsections": {
+      "what_is_lifespan_development": {
+        "page_start": 280,
+        "page_end": 283
+      },
+      "lifespan_theories": {
+        "page_start": 284,
+        "page_end": 291
+      },
+      "stages_of_development": {
+        "page_start": 292,
+        "page_end": 312
+      },
+      "death_and_dying": {
+        "page_start": 313,
+        "page_end": 314
+      }
+    }
+  },
+  "emotion_and_motivation": {
+    "page_start": 321,
+    "page_end": 357,
+    "subsections": {
+      "motivation": {
+        "page_start": 322,
+        "page_end": 327
+      },
+      "hunger_and_eating": {
+        "page_start": 328,
+        "page_end": 333
+      },
+      "sexual_behavior": {
+        "page_start": 334,
+        "page_end": 341
+      },
+      "emotion": {
+        "page_start": 342,
+        "page_end": 352
+      }
+    }
+  },
+  "personality": {
+    "page_start": 359,
+    "page_end": 396,
+    "subsections": {
+      "what_is_personality": {
+        "page_start": 360,
+        "page_end": 361
+      },
+      "freud_and_the_psychodynamic_perspective": {
+        "page_start": 362,
+        "page_end": 367
+      },
+      "neo_freudians_adler_erikson_jung_and_horney": {
+        "page_start": 368,
+        "page_end": 372
+      },
+      "learning_approaches": {
+        "page_start": 373,
+        "page_end": 376
+      },
+      "humanistic_approaches": {
+        "page_start": 377,
+        "page_end": 377
+      },
+      "biological_approaches": {
+        "page_start": 378,
+        "page_end": 378
+      },
+      "trait_theorists": {
+        "page_start": 379,
+        "page_end": 383
+      },
+      "cultural_understandings_of_personality": {
+        "page_start": 384,
+        "page_end": 385
+      },
+      "personality_assessment": {
+        "page_start": 386,
+        "page_end": 390
+      }
+    }
+  },
+  "social_psychology": {
+    "page_start": 399,
+    "page_end": 445,
+    "subsections": {
+      "what_is_social_psychology": {
+        "page_start": 400,
+        "page_end": 405
+      },
+      "self_presentation": {
+        "page_start": 406,
+        "page_end": 408
+      },
+      "attitudes_and_persuasion": {
+        "page_start": 409,
+        "page_end": 414
+      },
+      "conformity_compliance_and_obedience": {
+        "page_start": 415,
+        "page_end": 421
+      },
+      "prejudice_and_discrimination": {
+        "page_start": 422,
+        "page_end": 428
+      },
+      "aggression": {
+        "page_start": 429,
+        "page_end": 431
+      },
+      "prosocial_behavior": {
+        "page_start": 432,
+        "page_end": 436
+      }
+    }
+  },
+  "industrial_organizational_psychology": {
+    "page_start": 447,
+    "page_end": 483,
+    "subsections": {
+      "what_is_industrial_and_organizational_psychology": {
+        "page_start": 448,
+        "page_end": 455
+      },
+      "industrial_psychology_selecting_and_evaluating_employees": {
+        "page_start": 456,
+        "page_end": 466
+      },
+      "organizational_psychology_the_social_dimension_of_work": {
+        "page_start": 467,
+        "page_end": 476
+      },
+      "human_factors_psychology_and_workplace_design": {
+        "page_start": 477,
+        "page_end": 479
+      }
+    }
+  },
+  "stress_lifestyle_and_health": {
+    "page_start": 485,
+    "page_end": 535,
+    "subsections": {
+      "what_is_stress": {
+        "page_start": 486,
+        "page_end": 495
+      },
+      "stressors": {
+        "page_start": 496,
+        "page_end": 501
+      },
+      "stress_and_illness": {
+        "page_start": 502,
+        "page_end": 513
+      },
+      "regulation_of_stress": {
+        "page_start": 514,
+        "page_end": 520
+      },
+      "the_pursuit_of_happiness": {
+        "page_start": 521,
+        "page_end": 528
+      }
+    }
+  },
+  "psychological_disorders": {
+    "page_start": 537,
+    "page_end": 597,
+    "subsections": {
+      "what_are_psychological_disorders": {
+        "page_start": 538,
+        "page_end": 541
+      },
+      "diagnosing_and_classifying_psychological_disorders": {
+        "page_start": 542,
+        "page_end": 544
+      },
+      "perspectives_on_psychological_disorders": {
+        "page_start": 545,
+        "page_end": 547
+      },
+      "anxiety_disorders": {
+        "page_start": 548,
+        "page_end": 553
+      },
+      "obsessive_compulsive_and_related_disorders": {
+        "page_start": 554,
+        "page_end": 557
+      },
+      "posttraumatic_stress_disorder": {
+        "page_start": 558,
+        "page_end": 559
+      },
+      "mood_and_related_disorders": {
+        "page_start": 560,
+        "page_end": 569
+      },
+      "schizophrenia": {
+        "page_start": 570,
+        "page_end": 573
+      },
+      "dissociative_disorders": {
+        "page_start": 574,
+        "page_end": 575
+      },
+      "disorders_in_childhood": {
+        "page_start": 576,
+        "page_end": 581
+      },
+      "personality_disorders": {
+        "page_start": 582,
+        "page_end": 588
+      }
+    }
+  },
+  "therapy_and_treatment": {
+    "page_start": 599,
+    "page_end": 631,
+    "subsections": {
+      "mental_health_treatment_past_and_present": {
+        "page_start": 600,
+        "page_end": 604
+      },
+      "types_of_treatment": {
+        "page_start": 605,
+        "page_end": 616
+      },
+      "treatment_modalities": {
+        "page_start": 617,
+        "page_end": 620
+      },
+      "substance_related_and_addictive_disorders_a_special_case": {
+        "page_start": 621,
+        "page_end": 622
+      },
+      "the_sociocultural_model_and_therapy_utilization": {
+        "page_start": 623,
+        "page_end": 626
+      }
+    }
+  }
+}
