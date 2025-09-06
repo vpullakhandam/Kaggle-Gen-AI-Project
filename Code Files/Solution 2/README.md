@@ -70,7 +70,7 @@ jupyter notebook sol2.ipynb
 
 ## Architecture Overview
 
-### Document Processing (Cells 3-5)
+### Document Processing 
 
 ```
 Psychology Textbook (753 pages)
@@ -82,7 +82,7 @@ Psychology Textbook (753 pages)
 ChromaDB Vector Store
 ```
 
-### Question Answering Pipeline (Cells 8-11)
+### Question Answering Pipeline 
 
 ```
 User Question
