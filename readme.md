@@ -23,11 +23,10 @@ A comprehensive Retrieval-Augmented Generation (RAG) system built for the CASML 
 
 **Solution 2 (Cloud API)**:
 
-- Not for Competition
 - Google Gemini 2.5 Flash API
-- Advanced retrieval strategies
-- Two-stage candidate filtering
-- Same processing pipeline for fair comparison
+- Structured JSON output with Pydantic
+- Streamlined, readable codebase
+- Same document processing pipeline
 
 ## Competition Results
 
@@ -62,7 +61,7 @@ A comprehensive Retrieval-Augmented Generation (RAG) system built for the CASML 
 │   │   ├── submission1.csv  # Competition results
 │   │   └── helper/page_to_section.json
 │   └── Solution 2/          # Cloud API implementation
-│       ├── Solution 2.ipynb
+│       ├── Solution 2.ipynb       
 │       └── helper/page_to_section.json
 ├── Sources/
 │   ├── book.pdf            # Psychology textbook (753 pages)
