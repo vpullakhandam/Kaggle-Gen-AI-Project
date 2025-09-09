@@ -2,6 +2,7 @@
 
 A comprehensive Retrieval-Augmented Generation (RAG) system built for the CASML Generative AI Hackathon. This project demonstrates two distinct approaches to building intelligent question-answering systems for academic content, specifically designed to answer psychology questions from a 753-page textbook with accurate citations.
 
+
 ## Features
 
 - **Semantic Document Search**: Advanced text chunking and vector similarity search across academic content
